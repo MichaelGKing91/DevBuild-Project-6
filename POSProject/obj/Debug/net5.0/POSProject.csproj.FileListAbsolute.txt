@@ -1,0 +1,16 @@
+C:\Users\mking10\dev\Week 6 - Project - POS System\POSProject\obj\Debug\net5.0\POSProject.csprojAssemblyReference.cache
+C:\Users\mking10\dev\Week 6 - Project - POS System\POSProject\obj\Debug\net5.0\POSProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mking10\dev\Week 6 - Project - POS System\POSProject\obj\Debug\net5.0\POSProject.AssemblyInfoInputs.cache
+C:\Users\mking10\dev\Week 6 - Project - POS System\POSProject\obj\Debug\net5.0\POSProject.AssemblyInfo.cs
+C:\Users\mking10\dev\Week 6 - Project - POS System\POSProject\obj\Debug\net5.0\POSProject.csproj.CoreCompileInputs.cache
+C:\Users\mking10\dev\Week 6 - Project - POS System\POSProject\bin\Debug\net5.0\POSProject.exe
+C:\Users\mking10\dev\Week 6 - Project - POS System\POSProject\bin\Debug\net5.0\POSProject.deps.json
+C:\Users\mking10\dev\Week 6 - Project - POS System\POSProject\bin\Debug\net5.0\POSProject.runtimeconfig.json
+C:\Users\mking10\dev\Week 6 - Project - POS System\POSProject\bin\Debug\net5.0\POSProject.runtimeconfig.dev.json
+C:\Users\mking10\dev\Week 6 - Project - POS System\POSProject\bin\Debug\net5.0\POSProject.dll
+C:\Users\mking10\dev\Week 6 - Project - POS System\POSProject\bin\Debug\net5.0\ref\POSProject.dll
+C:\Users\mking10\dev\Week 6 - Project - POS System\POSProject\bin\Debug\net5.0\POSProject.pdb
+C:\Users\mking10\dev\Week 6 - Project - POS System\POSProject\obj\Debug\net5.0\POSProject.dll
+C:\Users\mking10\dev\Week 6 - Project - POS System\POSProject\obj\Debug\net5.0\ref\POSProject.dll
+C:\Users\mking10\dev\Week 6 - Project - POS System\POSProject\obj\Debug\net5.0\POSProject.pdb
+C:\Users\mking10\dev\Week 6 - Project - POS System\POSProject\obj\Debug\net5.0\POSProject.genruntimeconfig.cache
